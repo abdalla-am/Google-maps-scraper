@@ -15,4 +15,26 @@
 <div>
 <br>
 <br>
+ 
+# Environment  
+Because of getting start with python not so familiarly and the project is just a begining, I have tested the project in specific environment below. 
+* os: Windows 11 Home 64-bit
+* python version: 3.12.0
+* pip version : 23.3
 
+# Requirements before installing
+
+## ⚪️ selenium:
+   version used :  4.14.0  (Not necessary the same version)
+  
+        py -m pip install selenium
+  
+## ⚪️ Pandas:
+   version used :  2.1.1  (Not necessary the same version)
+  
+        py -m pip install pandas
+
+## ⚪️ BeautifulSoup:
+   version used :  0.0.1  (Not necessary the same version)
+  
+        py -m pip install bs4
