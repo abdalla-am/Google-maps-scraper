@@ -7,7 +7,7 @@
  Google-maps-scraper
 </h1>
   <h3>
-    This repo aims to provide a code that Scrapes google maps - place information (Photos , Name , Address , Phone number , Website link , rating , no. of reviews , Location link , Plus code , Longitude ,Latitude ) without using any tools ( Paid or free ), just by code and some libraries .
+    This repo aims to provide a code that Scrapes google maps - place information ( Name , Address , Phone number , Website link , rating , no. of reviews , Location link , Plus code , Longitude ,Latitude ) without using any tools ( Paid or free ), just by code and some libraries .
     This projject uses webscraping & automation as main subjects
   </h3>
  <h5>
