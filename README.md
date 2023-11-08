@@ -7,7 +7,7 @@
  Google-maps-scraper
 </h1>
   <h3>
-    This repo aims to provide a code that Scrapes google maps - place information ( Photos ,Name , Address , Phone number , Website link , rating , no. of reviews , Location link , Plus code , Longitude ,Latitude ) without using any tools ( Paid or free ), just by code and some libraries .
+    This repo aims to provide a code that Scrapes google maps - place information ( Photos ,Name , Address , Phone number , Website link , rating , no. of reviews , Location link , Plus code , Longitude ,Latitude , place description) without using any tools ( Paid or free ), just by code and some libraries .
     This project uses webscraping & automation as main subjects
   </h3>
  <h5>
@@ -22,7 +22,7 @@ Because of getting start with python not so familiarly and the project is just a
 * python version: 3.12.0
 * pip version : 23.3
 
-# Requirements before installing
+# Requirements before starting
 
 ## ⚪️ selenium:
    version used :  4.14.0  (Not necessary the same version)
